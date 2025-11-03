@@ -45,3 +45,14 @@ GitHub includes an “Issues” feature where team members can record bugs, assi
 
 Documentation (README):
 Each repository can include a README file that explains the project’s purpose, usage, and contributors, helping others understand the project quickly.
+
+Conclusion
+
+GitHub is one of the most widely used version control platforms in the world.
+It makes collaboration simple, organized, and efficient.
+By learning GitHub, students gain hands-on experience with version control, teamwork, and real-world software development practices.
+
+Prepared By:
+Vajeeha Tanveer
+Team Leader — GitHub
+Software Quality Engineering (Assignment 1)
