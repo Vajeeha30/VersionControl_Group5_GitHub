@@ -16,7 +16,6 @@ The repository will be used to:
 - Perform practical tasks like creating branches, making commits, and merging code.  
 - Work together as a team using Git-based workflows.  
 
----
 
 ### 👥 Group Members
 
@@ -27,7 +26,6 @@ The repository will be used to:
 | Hamid Banaras | Team Leader | Bitbucket |
 
 
----
 
 ### 🗂️ Repository Name
 **VersionControl_GroupX_GitHub**
