@@ -13,3 +13,35 @@ It uses Git as its underlying system, which helps in tracking every change made 
 Through GitHub, multiple users can work on the same project simultaneously without interfering with each other’s work.
 It keeps a complete history of changes and allows teams to restore previous versions if needed.
 GitHub also supports teamwork by providing tools for reviewing changes, discussing ideas, and managing project progress.
+
+Key Features of GitHub
+
+Repositories:
+A repository (or repo) is the main storage area for a project on GitHub.
+It contains all the files, folders, and the complete version history of the project.
+
+Branches:
+Branches allow developers to work on different parts or features of a project separately.
+This ensures that the main project is not disturbed while new features are developed or tested.
+
+Commits:
+A commit represents a saved change in the repository.
+Each commit includes a message describing what was changed, helping team members track progress.
+
+Pull Requests:
+Pull Requests are used to propose changes made in a branch to be merged into the main branch.
+It allows other team members to review the changes before accepting them.
+
+Merge and Conflict Resolution:
+When different branches modify the same part of a file, conflicts can occur.
+GitHub provides tools to identify and resolve these conflicts before merging.
+
+Collaboration and Access Control:
+GitHub makes teamwork easier by letting the repository owner invite collaborators and control their access levels.
+Each collaborator can contribute by making commits, opening pull requests, and participating in discussions.
+
+Issues and Project Management:
+GitHub includes an “Issues” feature where team members can record bugs, assign tasks, or track progress, making project management more organized.
+
+Documentation (README):
+Each repository can include a README file that explains the project’s purpose, usage, and contributors, helping others understand the project quickly.
