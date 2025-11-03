@@ -5,34 +5,11 @@ Due Date: 10 November
 Group: Group 5
 Team Leader (GitHub): Vajeeha Tanveer
 
-Title: GitHub — Version Control Platform
-Description of GitHub
-GitHub is a web-based version control platform that allows developers and teams to manage their projects and collaborate efficiently. It uses Git as its underlying system, which helps in tracking every change made to the project files.
-Through GitHub, multiple users can work on the same project at the same time without interfering with each other’s work. It keeps a complete history of changes and allows teams to restore previous versions if needed. GitHub also supports teamwork by providing tools for reviewing changes, discussing ideas, and managing project progress.
+Title: GitHub â€” Version Control Platform
+Introduction
 
-Key Features of GitHub
-1. Repositories:
-A repository (or repo) is the main storage area for a project on GitHub. It contains all the files, folders, and the complete version history of the project.
-2. Branches:
-Branches allow developers to work on different parts or features of a project separately. This ensures that the main project is not disturbed while new features are developed or tested.
-3. Commits:
-A commit represents a saved change in the repository. Each commit includes a message describing what was changed, helping team members track progress.
-4. Pull Requests:
-Pull Requests are used to propose changes made in a branch to be merged into the main branch. It allows other team members to review the changes before accepting them.
-5. Merge and Conflict Resolution:
-When different branches modify the same part of a file, conflicts can occur. GitHub provides tools to identify and resolve these conflicts before merging.
-6. Collaboration and Access Control:
-GitHub makes teamwork easier by letting the repository owner invite collaborators and control their access levels. Each collaborator can contribute by making commits, opening pull requests, and participating in discussions.
-7. Issues and Project Management:
-GitHub includes an “Issues” feature where team members can record bugs, assign tasks, or track progress, making project management more organized.
-8. Documentation (README):
-Each repository can include a README file that explains the project’s purpose, usage, and contributors, helping others understand the project quickly.
-
-Conclusion
-GitHub is one of the most widely used version control platforms in the world. It makes collaboration simple, organized, and efficient. By learning GitHub, students gain hands-on experience with version control, teamwork, and real-world software development practices.
-
-Prepared By:
-Vajeeha Tanveer
-Team Leader — GitHub
-Software Quality Engineering (Assignment 1)
-
+GitHub is a web-based version control platform that allows developers and teams to manage their projects and collaborate efficiently.
+It uses Git as its underlying system, which helps in tracking every change made to the project files.
+Through GitHub, multiple users can work on the same project simultaneously without interfering with each otherâ€™s work.
+It keeps a complete history of changes and allows teams to restore previous versions if needed.
+GitHub also supports teamwork by providing tools for reviewing changes, discussing ideas, and managing project progress.
