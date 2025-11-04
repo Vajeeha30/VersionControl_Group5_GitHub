@@ -5,5 +5,12 @@ Title: GitHub — Version Control Platform
 Introduction 
 GitHub is a widely used online platform that supports version control and team-based software development. It is built on the Git system, which helps developers record changes, maintain project history, and work on code collaboratively.By using GitHub, several developers can contribute to the same project at the same time without overwriting each other’s updates.
 
+Details:
+GitHub allows developers to store and manage their code in repositories.
+It supports branching, letting users work on different features without affecting the main project.
+Pull requests are used to review and merge code changes safely.
+Built-in tools like issues and project boards help in tracking bugs and managing tasks.
+It also integrates with CI/CD tools to automate testing and deployment.
+
 
 
