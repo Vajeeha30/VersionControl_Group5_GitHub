@@ -1,7 +1,5 @@
-
-Introduction
-
-Version control systems help people work together on the same project without messing up each other’s work. They keep a record of all changes and make it easy to fix mistakes or go back to an earlier version if needed.
+Introduction:
+              Version control systems help people work together on the same project without messing up each other’s work. They keep a record of all changes and make it easy to fix mistakes or go back to an earlier version if needed.
 
 Websites like GitHub, GitLab, and Bitbucket let teams store their projects online so everyone can work from different places. These tools allow us to create branches, make changes, and later combine those changes with the main project.
 
@@ -20,3 +18,4 @@ Conclusion:
             Working as a collaborator helped me understand how version control makes teamwork easier. By creating my own branch, I was able to make changes without affecting the main project. Committing my work showed a clear record of every update I made.
 
 This process taught me how important branching is when many people are working together. It also helped me learn the basic steps of updating files, saving changes, and preparing them for merging. Overall, this activity improved my confidence in using version control tools for real projects.
+
