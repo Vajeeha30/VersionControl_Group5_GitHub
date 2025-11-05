@@ -5,3 +5,12 @@ Version control systems help people work together on the same project without me
 Websites like GitHub, GitLab, and Bitbucket let teams store their projects online so everyone can work from different places. These tools allow us to create branches, make changes, and later combine those changes with the main project.
 
 In this task, I am working as a collaborator. I will create my own branch, add changes like introduction, details, and conclusion, and then upload my work to the repository. This helps me learn how to use branching, committing, and teamwork in a shared project
+
+Details:
+          After creating my own branch from the main branch, I started working on the document. First, I reviewed the purpose of the selected version control platform and noted its important features.
+
+I then made updates to the file by adding helpful information. These changes were saved using commits. Each commit showed what I changed, making it easier to understand my progress.
+
+While working, I made sure my updates did not affect the main branch directly. All my work stayed inside my branch until it was ready to be reviewed. This helps avoid mistakes and keeps the main project safe.
+
+Through this process, I learned how branches allow team members to work on different tasks at the same time without disturbing each other’s work.
