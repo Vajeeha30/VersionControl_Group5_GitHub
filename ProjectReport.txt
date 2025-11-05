@@ -1,3 +1,6 @@
+Assignment 1: Learning Version Control Systems (GitHub, GitLab, Bitbucket)
+Course: Software Quality Engineering
+
 Introduction:
               Version control systems help people work together on the same project without messing up each other’s work. They keep a record of all changes and make it easy to fix mistakes or go back to an earlier version if needed.
 
@@ -18,4 +21,5 @@ Conclusion:
             Working as a collaborator helped me understand how version control makes teamwork easier. By creating my own branch, I was able to make changes without affecting the main project. Committing my work showed a clear record of every update I made.
 
 This process taught me how important branching is when many people are working together. It also helped me learn the basic steps of updating files, saving changes, and preparing them for merging. Overall, this activity improved my confidence in using version control tools for real projects.
+
 
