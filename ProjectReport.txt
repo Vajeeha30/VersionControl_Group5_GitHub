@@ -1,11 +1,9 @@
 Assignment 1: Learning Version Control Systems (GitHub, GitLab, Bitbucket)
 Course: Software Quality Engineering
-Instructor: Mirza Ahsan Ullah
-Due Date: 10 November
-Group: Group 5
-Team Leader (GitHub): Vajeeha Tanveer
 
 Title: GitHub — Version Control Platform
+
+
 Introduction
 
 GitHub is a web-based version control platform that allows developers and teams to manage their projects and collaborate efficiently.
@@ -56,3 +54,4 @@ Prepared By:
 Vajeeha Tanveer
 Team Leader — GitHub
 Software Quality Engineering (Assignment 1)
+
