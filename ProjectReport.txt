@@ -1,25 +1,55 @@
 Assignment 1: Learning Version Control Systems (GitHub, GitLab, Bitbucket)
 Course: Software Quality Engineering
 
-Introduction:
-              Version control systems help people work together on the same project without messing up each other’s work. They keep a record of all changes and make it easy to fix mistakes or go back to an earlier version if needed.
 
-Websites like GitHub, GitLab, and Bitbucket let teams store their projects online so everyone can work from different places. These tools allow us to create branches, make changes, and later combine those changes with the main project.
+Introduction
 
-In this task, I am working as a collaborator. I will create my own branch, add changes like introduction, details, and conclusion, and then upload my work to the repository. This helps me learn how to use branching, committing, and teamwork in a shared project
+GitHub is a web-based version control platform that allows developers and teams to manage their projects and collaborate efficiently.
+It uses Git as its underlying system, which helps in tracking every change made to the project files.
+Through GitHub, multiple users can work on the same project simultaneously without interfering with each other’s work.
+It keeps a complete history of changes and allows teams to restore previous versions if needed.
+GitHub also supports teamwork by providing tools for reviewing changes, discussing ideas, and managing project progress.
 
-Details:
-          After creating my own branch from the main branch, I started working on the document. First, I reviewed the purpose of the selected version control platform and noted its important features.
+Key Features of GitHub
 
-I then made updates to the file by adding helpful information. These changes were saved using commits. Each commit showed what I changed, making it easier to understand my progress.
+Repositories:
+A repository (or repo) is the main storage area for a project on GitHub.
+It contains all the files, folders, and the complete version history of the project.
 
-While working, I made sure my updates did not affect the main branch directly. All my work stayed inside my branch until it was ready to be reviewed. This helps avoid mistakes and keeps the main project safe.
+Branches:
+Branches allow developers to work on different parts or features of a project separately.
+This ensures that the main project is not disturbed while new features are developed or tested.
 
-Through this process, I learned how branches allow team members to work on different tasks at the same time without disturbing each other’s work.
+Commits:
+A commit represents a saved change in the repository.
+Each commit includes a message describing what was changed, helping team members track progress.
 
-Conclusion:
-            Working as a collaborator helped me understand how version control makes teamwork easier. By creating my own branch, I was able to make changes without affecting the main project. Committing my work showed a clear record of every update I made.
+Pull Requests:
+Pull Requests are used to propose changes made in a branch to be merged into the main branch.
+It allows other team members to review the changes before accepting them.
 
-This process taught me how important branching is when many people are working together. It also helped me learn the basic steps of updating files, saving changes, and preparing them for merging. Overall, this activity improved my confidence in using version control tools for real projects.
+Merge and Conflict Resolution:
+When different branches modify the same part of a file, conflicts can occur.
+GitHub provides tools to identify and resolve these conflicts before merging.
 
+Collaboration and Access Control:
+GitHub makes teamwork easier by letting the repository owner invite collaborators and control their access levels.
+Each collaborator can contribute by making commits, opening pull requests, and participating in discussions.
+
+Issues and Project Management:
+GitHub includes an “Issues” feature where team members can record bugs, assign tasks, or track progress, making project management more organized.
+
+Documentation (README):
+Each repository can include a README file that explains the project’s purpose, usage, and contributors, helping others understand the project quickly.
+
+Conclusion
+
+GitHub is one of the most widely used version control platforms in the world.
+It makes collaboration simple, organized, and efficient.
+By learning GitHub, students gain hands-on experience with version control, teamwork, and real-world software development practices.
+
+Prepared By:
+Vajeeha Tanveer
+Team Leader — GitHub
+Software Quality Engineering (Assignment 1)
 
