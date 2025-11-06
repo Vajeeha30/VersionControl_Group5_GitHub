@@ -25,6 +25,18 @@ The repository will be used to:
 | Qudsia Mazhar | Team Leader | GitLab |
 | Hamid Banaras | Team Leader | Bitbucket |
 
+## Final Remarks
+
+All branches from team members have been successfully merged into the main branch.  
+This repository demonstrates how GitHub allows multiple collaborators to work on the same project efficiently using branches, commits, and pull requests.  
+Conflicts were resolved, and the repository now contains the complete ProjectReport.txt with all sections (Introduction, Details, and Conclusion).
+
+This assignment helped us understand practical version control workflows, teamwork, and collaboration using GitHub.
+
+**Prepared by:**  
+Vajeeha Tanveer  
+Team Leader — GitHub  
+Software Quality Engineering (Assignment 1)
 
 
 ### 🗂️ Repository Name
