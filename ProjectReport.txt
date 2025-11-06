@@ -1,8 +1,6 @@
 Assignment 1: Learning Version Control Systems (GitHub, GitLab, Bitbucket)
 Course: Software Quality Engineering
 
-Title: GitHub — Version Control Platform
-
 
 Introduction
 
