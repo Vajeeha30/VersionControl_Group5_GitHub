@@ -22,8 +22,8 @@ The repository will be used to:
 | Student Name | Role | Platform |
 |---------------|------|-----------|
 | Vajeeha Tanveer | Team Leader | GitHub |
-| Qudsia Mazhar | Team Leader | GitLab |
-| Hamid Banaras | Team Leader | Bitbucket |
+| Qudsia Mazhar | Team Leader |Bitbucket  |
+| Hamid Banaras | Team Leader | GitLab |
 
 ## Final Remarks
 
